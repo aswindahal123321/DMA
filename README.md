@@ -27,9 +27,9 @@ Model View View Model (MVVM)
 
 # Screen Shots
 
-<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/1.png" width="25%" height="20%" style="    margin-top: 20px;">  <img src="https://github.com/varun2948/DMA/blob/master/Screenshots/2.png" width="25%" height="20%" style="margin-top:20px;"> 
-<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/3.png" width="25%" height="20%" style="margin-top:20px;">   <img src="https://github.com/varun2948/DMA/blob/master/Screenshots/4.png" width="25%" height="20%" style="margin-top:20px;"> 
-|<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/5.png" width="25%" height="20%" style="margin-top:20px;">   <img src="https://github.com/varun2948/DMA/blob/master/Screenshots/6.png" width="25%" height="20%" style="margin-top:20px;"> 
+<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/1.png" width="25%" height="20%" style="    margin-top: 20px;">  <img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/2.png" width="25%" height="20%" style="margin-top:20px;"> 
+<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/3.png" width="25%" height="20%" style="margin-top:20px;">   <img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/4.png" width="25%" height="20%" style="margin-top:20px;"> 
+|<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/5.png" width="25%" height="20%" style="margin-top:20px;">   <img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/6.png" width="25%" height="20%" style="margin-top:20px;"> 
 |<img src="https://github.com/aswindahal123321/DMA/blob/master/Screenshots/7.png" width="25%" height="20%" style="margin-top:20px;">   
 
 # License
